@@ -4,6 +4,4 @@ class Hash
     return arguments
   end
 
-
- return
 end
