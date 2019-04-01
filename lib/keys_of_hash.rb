@@ -2,7 +2,7 @@ class Hash
 
   def keys_of(arguments)
     arr = []
-    for item in 
+    for item in
 
  return
 end
