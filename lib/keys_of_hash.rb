@@ -1,4 +1,5 @@
 class Hash
+
   def keys_of(arguments)
     arr = []
     hash.each |key,value| do
