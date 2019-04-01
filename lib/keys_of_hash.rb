@@ -9,4 +9,5 @@ class Hash
     return arr
   end
 
-end    
+
+end
